@@ -1,0 +1,16 @@
+.container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    gap: 100000px;
+}
+.btn1{
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.btn2{
+    margin-left: 10px;
+    border-radius: 20px;
+}
